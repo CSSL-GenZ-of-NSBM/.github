@@ -57,10 +57,10 @@ We are a dynamic community of tech enthusiasts, developers, and innovators at NS
 
 ## Connect With Us 📱
 
-- **Email**: [cssl@nsbm.ac.lk]
-- **LinkedIn**: [https://www.linkedin.com/company/cssl-genz-chapter-nsbm-green-university/]
-- **Instagram**: [https://www.instagram.com/cssl_nsbm_chapter/]
-- **Website**: [https://cssl.nsbm.ac.lk/]
+- **Email**: [cssl@nsbm.ac.lk](cssl@nsbm.ac.lk)
+- **LinkedIn**: [@cssl-genz-chapter-nsbm-green-university](https://www.linkedin.com/company/cssl-genz-chapter-nsbm-green-university/)
+- **Instagram**: [@cssl_nsbm_chapter](https://www.instagram.com/cssl_nsbm_chapter/)
+- **Website**: [https://cssl.nsbm.ac.lk/](https://cssl.nsbm.ac.lk/)
 
 ## Repository Guidelines 📋
 
